@@ -1,7 +1,7 @@
 # Market Share Analysis in Emerging Markets and WMG's Uncorrelated Returns
 
 ## Overview
-This repository contains the code and data used for an investment memo for Warner Music Groupo (WMG) analyzing market share in emerging markets and WMG's correlation with market-level risk factors. The analysis leverages data from last.fm to assess streaming trends and incorporates market-level factors  to evaluate their impact on WMG's returns from 10/2021-03/2025.
+This repository contains the code and data used for an investment memo for Warner Music Groupo (WMG) analyzing market share in emerging markets and WMG's correlation with market-level risk factors. The analysis leverages data from last.fm to assess streaming trends and incorporates market-level factors from various sources to evaluate their impact on WMG's returns from 10/2021-03/2025.
 
 ## Repository Structure
 - **`retrieve_data.py`** – A Python script that scrapes last.fm for relevant market data.
